@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.skills, .profile, .projects {
+  margin: 20px 0;
+}
+
+.skills ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.skills li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.profile .basic-info, .profile .about-me, .profile .education {
+  margin: 10px 0;
+}
+
+.projects .project {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+}
+
+.footer .social-links a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
