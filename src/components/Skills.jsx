@@ -2,17 +2,17 @@ import React from 'react';
 
 function Skills() {
   return (
-    <section id="skills">
-      <h2>Skills</h2>
-      <ul>
-        <li>React</li>
-        <li>JavaScript</li>
-        <li>HTML/CSS</li>
-        <li>Node.js</li>
-        <li>Version Control (Git)</li>
-        <li>Problem Solving</li>
-      </ul>
-    </section>
+    <section className="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>JAVASCRIPT</li>
+          <li>REACT</li>
+          <li>REDUX</li>
+          <li>NODE</li>
+          <li>VS CODE</li>
+          <li>FISMA</li>
+        </ul>
+      </section>
   );
 }
 
